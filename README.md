@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
+  <img src="https://telegra.ph/file/b0ada5f19235e2d590a02.jpg" alt="TeamUltroid Logo">
 </p>
 <h1 align="center">
   <b>Ultroid - UserBot</b>
@@ -37,7 +37,7 @@
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FNew-dev0%2FTraveliTg&template=https%3A%2F%2Fgithub.com%2FNew-dev0%2FTraveliTg)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dhttps://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FNew-dev0%2FIdkkkk&template=https%3A%2F%2Fgithub.com%2FNew-dev0%2FIdkkkk)
 
 ## Deploy Locally
 - [Traditional Method](#local-deploy---traditional-method)
